@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flower_Ivanova</string>
+    <string name="header_main">FLOWERS</string>
+    <string name="button_text">Show</string>
+</resources>
